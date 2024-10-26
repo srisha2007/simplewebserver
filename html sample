@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+    <h2>basic html table</h2>
+    <table border="1" width="100" bgcolor="pink">
+        <tr>
+            <th>system configuration</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <th>process</th>
+            <th> 17 </th>
+        </tr>
+        <tr>
+            <th>primary memory</th>
+            <th> Ram 16 GB </th>
+        </tr>
+        <tr>
+            <th>secondary memory</th>
+            <th> 512 GB </th>
+        </tr>
+        <tr>
+            <th>o.s</th>
+            <th>Windows 11</th>
+        </tr>
+        <tr>    
+            <th> Graphic</th>
+            <th> nvidia</th>
+        </tr>
+        </table>
+       </center> 
+       </body>
