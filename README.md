@@ -22,7 +22,8 @@ Testing the webserver.
 
 ## PROGRAM:
 from http.server import HTTPServer , BaseHTTPRequestHandler
-content=```
+content=
+```
 <doctype html>
     <html>
         <head>
@@ -75,7 +76,7 @@ server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 
-
+```
 ## OUTPUT:
 ![Screenshot 2024-10-26 105905](https://github.com/user-attachments/assets/6127fc27-a164-4bd4-9448-e42b8d986e0c)
 
